@@ -1,4 +1,4 @@
-* Note: As the fall recruiting rush comes to an end, this document will not be updated as frequently. Many applications may be closed, though I am trying my best to move closed apps to the "archived" section. Helpful sites to find internships are [LinkedIn](https://www.linkedin.com/), [Indeed](https://www.indeed.com/), [Glassdoor](https://www.glassdoor.com/), [StackOverflow](https://stackoverflow.com/jobs), [BuiltIn](https://builtin.com/) (has different websites for NYC, Chicago, Seattle, Boston, LA, Colorado, Austin), and [AngelList](https://angel.co/) (startups).
+﻿* Note: As the fall recruiting rush comes to an end, this document will not be updated as frequently. Many applications may be closed, though I am trying my best to move closed apps to the "archived" section. Helpful sites to find internships are [LinkedIn](https://www.linkedin.com/), [Indeed](https://www.indeed.com/), [Glassdoor](https://www.glassdoor.com/), [StackOverflow](https://stackoverflow.com/jobs), [BuiltIn](https://builtin.com/) (has different websites for NYC, Chicago, Seattle, Boston, LA, Colorado, Austin), and [AngelList](https://angel.co/) (startups).
 
 # Summer 2019 Tech Internships!
 
@@ -15,7 +15,7 @@ Two-letter locations indicate states in the U.S.; countries other than the U.S. 
 | Name | Location | Application Period | Notes  |
 |---|---|---|---|
 | [Affirm](https://jobs.lever.co/affirm/ceb9ceef-cf1a-406d-b635-ba22470df7d6)  | CA | Present | |
-| [Airbnb](https://www.airbnb.com/careers/departments/position/1213896)  | CA | Present | |
+| [Airbnb](https://careers.airbnb.com/positions/)  | CA | Present | |
 | [Akuna Capital](https://akunacapital.com/careers)  | IL, MA | Present | Graduation date by Spring 2020; diverse listings that range from C# to C++, Python, Web, Quant dev, etc. |
 | [Allstate](https://jobsearch.allstate.com/ShowJob/Id/1826200/Arity%20%20%20Software%20Engineer%20Intern)  | IL| Present | Rising juniors and seniors |
 | [Amazon](https://www.amazon.jobs/en/jobs/701508/software-development-engineer-internship-summer-2019-united-states)  | WA,  TX, CA, MA, CO, MI, VA, NY, WI, MN, AZ, OR | Present | Juniors and above only |
